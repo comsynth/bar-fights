@@ -9,6 +9,7 @@ Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
 
 * Each section must be 60 seconds
 * Each section must have no more than 6 tracks (2 tracks each)
+* Where possible create and stick to an audio pallette
 
 ### Platform: Reason 10 (compatable)
 

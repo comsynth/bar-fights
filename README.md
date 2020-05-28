@@ -9,7 +9,7 @@ music project 2020
 
 * Each section must be 60 seconds
 * Each section must be one of the bpm's listed below
-* Each section must have no more than 6 tracks (3 tracks each, 1 at a time)
+* Each section must have no more than 6 tracks (3 tracks each, 1 at a time (audio tennis))
 * Where possible create and stick to an audio palette
 
 ### Platform: Reason 10 (compatable)

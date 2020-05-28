@@ -1,9 +1,9 @@
 # bar fights
 music project 2020
 
-* Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
-
 >  Outline: Create 60 second musical sections for remote collaboration.
+
+Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
 
 ### Restraints
 
@@ -15,7 +15,7 @@ music project 2020
 ### Tempo Map for 60 seconds
 
 BPM | Measures PM
--------|-------
+-|-
 80 | 27
 101 | 25
 111 | 27

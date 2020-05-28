@@ -25,5 +25,7 @@ BPM | Measures PM
 120 | 30
 131 | 32
 
+https://www.vcalc.com/wiki/Coder/Music+Duration+Calculator
+
 
 

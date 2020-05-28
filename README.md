@@ -12,7 +12,7 @@ Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
 
 ### Platform: Reason 10 (compatable)
 
-#### Tempo Map
+### Tempo Map for 60 seconds
 
 Tempo | Measures
 -------|-------

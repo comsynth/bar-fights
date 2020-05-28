@@ -14,7 +14,7 @@ Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
 
 ### Tempo Map for 60 seconds
 
-Tempo | Measures
+BPM | Measures PM
 -------|-------
 80 | 27
 101 | 25

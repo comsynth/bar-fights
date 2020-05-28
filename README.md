@@ -1,7 +1,7 @@
 # Field Notes - Bar Fights
 music project 2020
 
->  Outline: Create 60 second musical sections for remote collaboration.
+>  **Outline: Create 60 second musical sections for remote collaboration.
 
 **Fighters/contributors/artists**: Austin Fields, Jonathan Thatcher
 

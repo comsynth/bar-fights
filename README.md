@@ -3,7 +3,7 @@ music project 2020
 
 Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
 
-## Outline: Create 60 second musical sections for remote collaboration.
+>  Outline: Create 60 second musical sections for remote collaboration.
 
 ### Restraints
 

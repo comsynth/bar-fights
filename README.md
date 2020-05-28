@@ -5,7 +5,7 @@ music project 2020
 
 **Fighters/contributors/artists**: Austin Fields, Jonathan Thatcher
 
-### Restraints
+### Format:
 
 * Each section must be 60 seconds
 * Each section must be one of the bpm's listed below

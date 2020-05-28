@@ -18,6 +18,7 @@ music project 2020
 
 BPM | Measures PM
 -|-
+76 | 19
 80 | 27
 101 | 25
 111 | 27

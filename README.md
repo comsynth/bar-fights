@@ -3,7 +3,7 @@ music project 2020
 
 >  Outline: Create 60 second musical sections for remote collaboration.
 
-** Fighters/contributors/artists **: Austin Fields, Jonathan Thatcher
+**Fighters/contributors/artists**: Austin Fields, Jonathan Thatcher
 
 ### Restraints
 

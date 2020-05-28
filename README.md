@@ -1,4 +1,4 @@
-# bar-fights
+# bar fights
 music project 2020
 
 Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
@@ -11,4 +11,14 @@ Fighters/contributors/artists: Austin Fields, Cory Basil, Jonathan Thatcher
 * Each section must have no more than 6 tracks (2 tracks each)
 
 ### Platform: Reason 10 (compatable)
+
+#### Tempo Map
+
+Tempo | Measures
+-------|-------
+80 | 27
+101 | 25
+111 | 27
+120 | 30
+131 | 32
 

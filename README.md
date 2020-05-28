@@ -8,6 +8,7 @@ music project 2020
 ### Restraints
 
 * Each section must be 60 seconds
+* Each section must be one of the bpm's listed below
 * Each section must have no more than 6 tracks (3 tracks each, 1 at a time)
 * Where possible create and stick to an audio palette
 
